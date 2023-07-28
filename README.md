@@ -6,7 +6,8 @@
 
 <!--![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)-->
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20220427/pngtree-business-analysis-and-communication-contemporary-marketing-and-software-for-development-image_1090680.jpg" alt="Image" />
+  <!--<img src="https://png.pngtree.com/thumb_back/fh260/background/20220427/pngtree-business-analysis-and-communication-contemporary-marketing-and-software-for-development-image_1090680.jpg" alt="Image" />-->
+	<img src="https://www.appleute.de/wp-content/uploads/2021/09/Programming-amico.svg" alt="Image"/>
 </p>
 
 
@@ -36,8 +37,7 @@ I take pride in my ability to break down complex concepts into easily understand
 [![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile/deepak_tech)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/dkumar45353?hr_r=1)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@deepak5691)
-[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com)
-[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
+[![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com/users/22302301/deepak-kumar)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/deepak70kumar)
 
 -**Here are some ideas to get you started:**
@@ -72,7 +72,7 @@ technologies to meet future requirements.</br>
    <summary>📝 Resume</summary>
 
  ## Education
- <img align="right" alt="Coding" width="450" src="https://www.appleute.de/wp-content/uploads/2021/09/Programming-amico.svg">
+ <img align="right" alt="Coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvYXryiVkY690b2U1enYB0_-1qSf9FnAnVg&usqp=CAU">
 
   - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
    📖**Bechelor In Technology-< Computer Science And Engineering >**
