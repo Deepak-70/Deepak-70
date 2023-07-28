@@ -355,9 +355,10 @@ technologies to meet future requirements.</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-70&theme=black&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍ Random Dev Quote
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8GmEsnXZrUB1l30JPQvjwLahGtFmW0aORgDTh8WvozhrNF2I4ew5_UiIjh2USgxpX2Jo&usqp=CAU)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Deepak-70&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 <!--Here are some ideas to get you started:
 
