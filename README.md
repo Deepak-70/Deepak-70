@@ -1,4 +1,4 @@
-### Welcome to my profile❤️!
+# <p align="center"> Welcome to my profile❤️!
 
 <!--
 **Deepak-70/Deepak-70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
@@ -7,7 +7,7 @@
 <!--![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)-->
 <p align="center">
   <!--<img src="https://png.pngtree.com/thumb_back/fh260/background/20220427/pngtree-business-analysis-and-communication-contemporary-marketing-and-software-for-development-image_1090680.jpg" alt="Image" />-->
-	<img src="https://www.appleute.de/wp-content/uploads/2021/09/Programming-amico.svg" alt="Image"/>
+	<img src="https://e6dxzbffdh5.exactdn.com/wp-content/uploads/2021/10/09105511/Implementation-of-Django-APScheduler-with-PostgreSQL-thumbnail-2.svg" alt="Image"/>
 </p>
 
 
