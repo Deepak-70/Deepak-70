@@ -72,7 +72,7 @@ technologies to meet future requirements.</br>
    <summary>📝 Resume</summary>
 
  ## Education
- <img align="right" alt="Coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbvYXryiVkY690b2U1enYB0_-1qSf9FnAnVg&usqp=CAU">
+ <img align="right" alt="Coding" width="450" src="https://cdn.pixabay.com/photo/2018/06/16/16/20/career-3478983_1280.jpg">
 
   - 📍 **Uttarakhand Technical University, Dehradun** < 2021-2025 >\
    📖**Bechelor In Technology-< Computer Science And Engineering >**
